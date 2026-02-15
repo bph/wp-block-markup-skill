@@ -1,4 +1,4 @@
-# wp-block-markup — Claude Skill
+# Convert markdown to block markup — Claude Skill
 
 A [Claude skill](https://support.anthropic.com/en/articles/11147075-what-are-skills) that converts Markdown files to WordPress block markup (Gutenberg serialized HTML) — and serves as a block grammar reference for Claude to consult when working with WordPress content.
 
